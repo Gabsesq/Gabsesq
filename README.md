@@ -1,7 +1,8 @@
+07/14/2024
 - 👋 Hi, my name is Gabriella
-- 👀 I’m interested in video game development
-- 🌱 I’m currently learning working with virtual machines and the video game creation process!
-- 💞️ I’m looking to collaborate on anything and everything, I love learning new things as I think most things are connected!
+- 👀 I’m interested in full stack development. Bringing ideas to life is my passion! 
+- 🌱 I’m currently focused on two projects + leetcoding to foster more intuitive programming
+- 💞️ I’ve always been artistic and code has become my favorite medium. Follow for a life journey filled with passion projects!
 - 📫 How to reach me gabbyesquibel@hotmail.com
 
 <!---
